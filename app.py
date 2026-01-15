@@ -1,6 +1,5 @@
 # Import FastAPI, Unicorn, os
 from fastapi import FastAPI, Header, HTTPException
-from fastapi.responses import JSONResponse
 import uvicorn
 import os
 
