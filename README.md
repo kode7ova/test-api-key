@@ -1,4 +1,4 @@
-# Install fastapi
+# Install FastAPI
 ```cmd
 pip install fastapi uvicorn
 ```
